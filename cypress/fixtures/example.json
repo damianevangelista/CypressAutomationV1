@@ -1,0 +1,40 @@
+{
+  "SingUpLabel": "New User Signup!",
+  "RegisterName": "Damian",
+  "RegisterEmail": "hello10@cypress.io",
+  "RegisterLabel": "Enter Account Information",
+  "MrTitle": "Mr",
+  "Password": "Damian",
+  "DateDay": "26",
+  "DateMonth": "September",
+  "DateMonthValue": "9",
+  "DateYear": "1992",
+  "NewLetter": "Sign up for our newsletter!'",
+  "SpecialOffer": "Receive special offers from our partners!",
+  "AddressInf": "Address Information",
+  "FirstName": "Damian",
+  "LastName": "Evangelista",
+  "Company": "Idelsa",
+  "Address": "Yamasa",
+  "Address2": "Peralvillo",
+  "Country": "Canada",
+  "State": "Penson",
+  "City": "Jorungo",
+  "ZipCode": "1992",
+  "MobilNumber": "8294042058",
+
+  "LoginLabel": "Login to your account",
+  "AccountCreted": "Account Created!",
+  "CongratulationMessage": "Congratulations! Your new account has been successfully created!",
+  "OnlineMessage": "You can now take advantage of member privileges to enhance your online shopping experience with us.",
+  "LoggedUser": "Logged in as",
+
+  "ContacLabel": " Contact"
+ 
+
+
+  
+      
+
+  
+}
